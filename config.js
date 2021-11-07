@@ -1,8 +1,8 @@
 const nameGirl = 'Phúc';
 const giftUrl = 'http://nodemy.vn';
-const eventName = 'Chúc Mừng sinh Nhật';
-const titleCard = 'Tặng người ấy';
-const contentCard = 'aloalo. Mong điều đẹp nhất sẽ đến với bạn trong hôm nay và cả những ngày sau';
+const eventName = 'Thằng lol';
+const titleCard = 'Hay bố hay mẹ m';
+const contentCard = 'đờ mờ thg lol';
 
 // phần dưới dành cho các bạn biết code, nếu muốn chỉnh ảnh đơn giản với base64
 // Cần hỗ trợ hãy liên hệ: 
