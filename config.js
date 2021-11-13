@@ -1,8 +1,8 @@
-const nameGirl = 'Cháu ông Tuế';
+const nameGirl = 'Happy Bithday To Me';
 const giftUrl = 'http://nodemy.vn';
-const eventName = 'AE QQ';
-const titleCard = '):';
-const contentCard = 'giang bj làm sao đí';
+const eventName = 'Tuổi mới tốt lành';
+const titleCard = 'luôn vui vẻ nhá';
+const contentCard = 'Happy old 18+';
 
 // phần dưới dành cho các bạn biết code, nếu muốn chỉnh ảnh đơn giản với base64
 // Cần hỗ trợ hãy liên hệ: 
